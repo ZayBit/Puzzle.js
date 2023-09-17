@@ -1,5 +1,5 @@
 # Puzzle.js
-Aleatoridad al recargar la pagina o reiniciar con un boton
+Aleatoridad al `recargar` la pagina o reiniciar con un boton
 
 ![](capture2.png)
 ![](capture.png)
